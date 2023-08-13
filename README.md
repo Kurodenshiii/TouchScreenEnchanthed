@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/Kurodenshiii/TouchScreenEnchanthed/main/photo_2023-08-13_17-33-14.jpg">
+  <img src="https://raw.githubusercontent.com/Kurodenshiii/TouchScreenEnchanthed/main/photo_2023-08-13_17-33-14.jpg">
 </p>
 
 Set your touch screen for more improvement as your wishes
