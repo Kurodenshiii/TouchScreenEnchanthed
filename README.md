@@ -7,4 +7,4 @@
 
 Set your touch screen for more improvement as your wishes
 
-- Download the script and termux (must): <a href="https://sfile.mobi/4j0JCzLX5Sd">Press Here</a>
+Go to release <a href="https://github.com/Kurodenshiii/TouchScreenEnchanthed/releases/tag/Publish">Press Here</a>
